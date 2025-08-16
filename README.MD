@@ -1,4 +1,5 @@
 #chatbot with Mistral LLM 
+
 ✅ 3. Folder Structure
 chatbot1/
 ├── main.py
