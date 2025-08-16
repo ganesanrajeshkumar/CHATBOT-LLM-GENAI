@@ -1,0 +1,94 @@
+| Machine Name               | Producer                         |
+| -------------------------- | -------------------------------- |
+| PowerEdge R760             | Dell                             |
+| ThinkSystem SR650          | Lenovo                           |
+| ProLiant DL380 Gen11       | HPE (Hewlett Packard Enterprise) |
+| Mac Studio                 | Apple                            |
+| Jetson Xavier NX           | NVIDIA                           |
+| Raspberry Pi 5             | Raspberry Pi Foundation          |
+| NUC 13 Pro                 | Intel                            |
+| Quantum i2000 Tape Library | Quantum Corporation              |
+| TS-877XU-RP                | QNAP                             |
+| DS923+                     | Synology                         |
+
+| Machine Name             | Producer                       |
+| ------------------------ | ------------------------------ |
+| DMU 50 3rd Gen           | DMG Mori                       |
+| VF-2SS                   | Haas Automation                |
+| Mazak Integrex i-200     | Yamazaki Mazak                 |
+| Robodrill α-DiB Series   | FANUC                          |
+| TruLaser 3030            | TRUMPF                         |
+| EC-400                   | Haas Automation                |
+| Hurco VMX30i             | Hurco Companies                |
+| AgieCharmilles CUT P 550 | GF Machining Solutions         |
+| HELLER H 4000            | HELLER                         |
+| Doosan DNM 4500          | DN Solutions (formerly Doosan) |
+
+
+| Machine Name           | Producer               |
+| ---------------------- | ---------------------- |
+| 8R 370                 | John Deere             |
+| T7.315 HD              | New Holland            |
+| Fendt 1050 Vario       | Fendt (AGCO)           |
+| Magnum 380 AFS Connect | Case IH                |
+| Axion 960              | CLAAS                  |
+| Challenger MT875E      | AGCO                   |
+| Valtra T235            | Valtra (AGCO)          |
+| Kubota M7-172          | Kubota                 |
+| Massey Ferguson 8S.265 | Massey Ferguson (AGCO) |
+| SAME Virtus 140        | SAME Deutz-Fahr        |
+
+
+| Machine Name      | Producer              |
+| ----------------- | --------------------- |
+| MAGNETOM Sola     | Siemens Healthineers  |
+| Revolution CT     | GE Healthcare         |
+| Signa Premier     | GE Healthcare         |
+| Aquilion ONE      | Canon Medical Systems |
+| Discovery MR750   | GE Healthcare         |
+| Ingenia Elition X | Philips Healthcare    |
+| Alinity ci-series | Abbott                |
+| ARCHITECT i2000SR | Abbott                |
+| Cobas 8000        | Roche Diagnostics     |
+| Elekta Versa HD   | Elekta                |
+
+
+| Machine Name      | Producer                     |
+| ----------------- | ---------------------------- |
+| CAT 336           | Caterpillar                  |
+| Komatsu PC210-11  | Komatsu                      |
+| Volvo EC950F      | Volvo Construction Equipment |
+| Liebherr R 9800   | Liebherr                     |
+| Hitachi ZX350LC-6 | Hitachi Construction         |
+| Doosan DX225LC-5  | Doosan Infracore             |
+| JCB 3CX           | JCB                          |
+| Bobcat T770       | Bobcat Company               |
+| Sany SY500H       | Sany                         |
+| Terex RT 100US    | Terex Corporation            |
+
+| Machine Name          | Producer                 |
+| --------------------- | ------------------------ |
+| ICP-MS 7900           | Agilent Technologies     |
+| Orbitrap Exploris 480 | Thermo Fisher Scientific |
+| NexION 2000           | PerkinElmer              |
+| ACQUITY UPLC H-Class  | Waters Corporation       |
+| XEVO TQ-S micro       | Waters Corporation       |
+| Bio-Rad CFX96         | Bio-Rad Laboratories     |
+| qTower³ 84            | Analytik Jena            |
+| Thermo TGA 5500       | Thermo Fisher Scientific |
+| Bruker D8 Advance     | Bruker                   |
+| Shimadzu LCMS-8060    | Shimadzu                 |
+
+| Machine Name          | Producer         |
+| --------------------- | ---------------- |
+| Juki DDL-8700         | Juki Corporation |
+| Brother S-7300A       | Brother          |
+| Pegasus W500          | Pegasus          |
+| PFAFF 487             | PFAFF Industrial |
+| Tajima TMEZ-K1501C    | Tajima           |
+| Barudan BEKY-S1501CII | Barudan          |
+| ZSK Sprint 7          | ZSK              |
+| Dürkopp Adler 867     | Dürkopp Adler    |
+| SunStar KM-250BL      | SunStar          |
+| Richpeace RPAS-L      | Richpeace        |
+
