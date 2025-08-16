@@ -1,12 +1,12 @@
-#chatbot with Mistral LLM 
-
+<h3>chatbot with Mistral LLM <h3>
+<p>
 ✅ 3. Folder Structure
 chatbot1/
 ├── main.py
 ├── chatbot.py
 ├── docs/                  # Upload your .txt, .pdf, .md, etc here
 ├── chatbot_env/           # Your Python venv
-
+</p>
 
 ✅ 4. Install Requirements
 Make sure you're in your virtual environment (chatbot_env) and then install:
